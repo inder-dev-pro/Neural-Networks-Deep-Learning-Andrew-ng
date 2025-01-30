@@ -1,0 +1,1 @@
+This repository contains assignments and code from Andrew Ng's Neural Networks and Deep Learning course. It covers key concepts like forward/backpropagation, optimization, and neural network architectures, with detailed Jupyter Notebooks for hands-on practice. Perfect for tracking progress and revisiting core deep learning concepts!
